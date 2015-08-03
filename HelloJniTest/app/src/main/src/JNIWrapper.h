@@ -1,0 +1,8 @@
+//
+// Created by Amol Jindal on 03/08/15.
+//
+
+#ifndef HELLOJNITEST_JNIWRAPPER_H
+#define HELLOJNITEST_JNIWRAPPER_H
+
+#endif //HELLOJNITEST_JNIWRAPPER_H
